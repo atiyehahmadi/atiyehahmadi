@@ -11,7 +11,7 @@ const atiyeh = {
   tools: [React, Redux, Node, NPM, Yarn, ...],
   language: ["fa_IR", "en_US"] ,
   architecture: ["Single page applications"],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript" ,
+  challenge: "I'm trying to build a full stack application" ,
   funFact: "this is a javascript joke."
 }
 ```
