@@ -1,5 +1,5 @@
 
-<h2 align="center"><samp> Hello World, I'm Atiyeh 👋 <img src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif"/></samp></h2>
+<h2 align="center"><samp> Hello World, I'm Atiyeh 👋 <img width="30px" src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif"/></samp></h2>
 <h5  align="center"> <samp>welcome to my Github! I'm a self-taught passionate FrontEnd developer </samp></h5>
 
 
