@@ -1,6 +1,6 @@
 
 <h2 align="center"><samp> Hello World, I'm Atiyeh 👋</samp></h2>
-<h6> <samp>welcome to my Github! I'm a self-taught passionate FrontEnd developer </samp></h6>
+<h5  align="center"> <samp>welcome to my Github! I'm a self-taught passionate FrontEnd developer </samp></h5>
 
 
 
